@@ -8,7 +8,7 @@
         
 
              }.cover{
-                width: 200px;
+                width: 400px;
                 height: 550px;
                 background: url(bookcover.png);
                 background-size: cover;
@@ -40,7 +40,7 @@
             .sub{
                 font-size: 14px;
                 margin-top: 20px;
-                text-align: left;
+                text-align: center;
             }
             .bottom{
                 position: absolute;
